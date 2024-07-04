@@ -10,8 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.12.3",
-    "vue": "latest"
+    "nuxt": "^3.12.3"
   },
   "devDependencies": {
     "@pinegrow/nuxt-module": "^3.0.56"
