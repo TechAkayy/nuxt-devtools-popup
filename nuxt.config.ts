@@ -1,13 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  devtools: { enabled: true }
+  devtools: {enabled: true},
+
   modules: [
-    '@pinegrow/nuxt-module',
+    // '@pinegrow/nuxt-module',
     //...
   ],
-  pinegrow: {
-    liveDesigner: {
-      //... 
-    },
-  },
+
+  // pinegrow: {
+  //   liveDesigner: {
+  //     //...
+  //   },
+  // },
 })
